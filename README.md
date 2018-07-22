@@ -9,6 +9,7 @@ The user submits a survey containing 10 questions/answers. The answers are compa
 
 <img src='app/public/images/survey.PNG' alt='Friend Finder Survey Image' width='300'>
 
+
 ## Getting Started
 
 You should be able to download the files via the github pages link below and run locally on your computer:
