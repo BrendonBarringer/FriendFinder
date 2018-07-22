@@ -5,9 +5,9 @@ This node.js application is a compatibility-based Friend Finder. It also uses ex
 
 The user submits a survey containing 10 questions/answers. The answers are compared to other friends in the survey pool to determine the best match. Finally, the application displays the name and picture of the friend with the best overall match.
 
-<img src='app/public/assets/images/homepage.png' alt='Friend Finder Home Image' width='300'>
+<img src='app/public/assets/images/homepage.PNG' alt='Friend Finder Home Image' width='300'>
 
-<img src='app/public/assets/images/survey.png' alt='Friend Finder Survey Image' width='300'>
+<img src='app/public/assets/images/survey.PNG' alt='Friend Finder Survey Image' width='300'>
 
 ## Getting Started
 
